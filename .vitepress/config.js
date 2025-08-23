@@ -25,6 +25,6 @@ export default defineConfig({
   cleanUrls: true,
   lastUpdated: true,
   sitemap: {
-    hostname: 'https://everfu.github.io/nav/'
+    hostname: 'https://kemiaofxjun.github.io/nav/'
   }
 })
