@@ -6,7 +6,7 @@ const siteInfo = getSiteInfo()
 export default defineConfig({
   title: siteInfo.title,
   description: siteInfo.subtitle,
-  base: '/nav/',
+  base: '/',
   outDir: './dist', // 添加此行，明确指定输出目录为根目录下的 dist 文件夹
   srcExclude: ['README.md'],
   head: [
@@ -26,6 +26,6 @@ export default defineConfig({
   cleanUrls: true,
   lastUpdated: true,
   sitemap: {
-    hostname: 'https://kemiaofxjun.github.io/nav/'
+    hostname: 'https://kemiaofxjun.github.io/'
   }
 })
