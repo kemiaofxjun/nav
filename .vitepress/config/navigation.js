@@ -123,7 +123,7 @@ export const navigationConfig = {
           id: 'astro-Mizuki',
           name: 'astro-theme-Mizuki',
           description: 'astro-theme-Mizuki的自用版本',
-          url: 'https:/myblog.kemiaosw.top',
+          url: 'https://myblog.kemiaosw.top',
           icon: {
             light: 'https://img.314926.xyz/images/2025/08/23/Mizuki.webp',
             dark: 'https://img.314926.xyz/images/2025/08/23/Mizuki.webp'
@@ -460,7 +460,7 @@ export const navigationConfig = {
         {
           id: 'TimePlus',
           name: 'TimePlus',
-          description: '插画与UI设计交流社区',
+          description: 'typecho的相册',
           url: 'https://photos.050815.xyz/',
           icon: '',
           color: '#EA4C89'
