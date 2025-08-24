@@ -477,7 +477,7 @@ export const navigationConfig = {
           id: 'lin-snow-Ech0',
           name: 'Ech0',
           description: 'Ech0 - 开源、自托管、专注思想流动的轻量级发布平台',
-          url: 'https://read.050815.xyz',
+          url: 'https://echo.050815.xyz',
           icon: {
             light: 'https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAAMgaKnJZk6CIdcSMMLN5erAnz1aWEYAArbHMRupnFBV8MaN_nT7UskBAAMCAAN4AAM2BA.webp',
             dark: 'https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAAMgaKnJZk6CIdcSMMLN5erAnz1aWEYAArbHMRupnFBV8MaN_nT7UskBAAMCAAN4AAM2BA.webp'
