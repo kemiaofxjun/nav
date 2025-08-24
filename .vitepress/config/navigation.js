@@ -141,6 +141,50 @@ export const navigationConfig = {
           },
           color: '#130BD1',
         },
+        {
+          id: 'wallleap-blog',
+          name: 'wallleap-blog',
+          description: 'A GitHub Issue blog theme based on Vue 2',
+          url: 'https://myblog.kemeow.top',
+          icon: {
+            light: 'https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAAMmaKqLdVfP6rV0QjlsLLMGBz4AAdF-AAKHwzEbqZxYVV9hJNQl8yumAQADAgADeAADNgQ.webp',
+            dark: 'https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAAMmaKqLdVfP6rV0QjlsLLMGBz4AAdF-AAKHwzEbqZxYVV9hJNQl8yumAQADAgADeAADNgQ.webp'
+          },
+          color: '#130BD1',
+        },
+        {
+          id: 'rin-blog',
+          name: 'rin-blog',
+          description: '⚡基于 Cloudflare Pages + Workers + D1 + R2 的动态博客',
+          url: 'https://rin.kemeow.top',
+          icon: {
+            light: 'https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAAMoaKqPLqdfoiF8Pw1G4NhpSmkUWMkAApDDMRupnFhVbNrrcIZmXsoBAAMCAAN5AAM2BA.webp',
+            dark: 'https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAAMoaKqPLqdfoiF8Pw1G4NhpSmkUWMkAApDDMRupnFhVbNrrcIZmXsoBAAMCAAN5AAM2BA.webp'
+          },
+          color: '#130BD1',
+        },
+        {
+          id: 'rin-blog',
+          name: 'rin-blog',
+          description: 'Gmeek 博客',
+          url: 'https://blog.kemiao.site',
+          icon: {
+            light: 'https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAAMpaKqR6poVc1IfyI6LG6-nYrxdijgAApXDMRupnFhVsGOzja-SddEBAAMCAAN4AAM2BA.webp',
+            dark: 'https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAAMpaKqR6poVc1IfyI6LG6-nYrxdijgAApXDMRupnFhVsGOzja-SddEBAAMCAAN4AAM2BA.webp'
+          },
+          color: '#130BD1',
+        },
+        {
+          id: 'xlog',
+          name: 'xlog-blog',
+          description: '区块链 博客',
+          url: 'https://xlog.kemiao.xyz',
+          icon: {
+            light: 'https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAAMsaKqg4alIgMsHFHPOPzuGUiC2BtsAAq7DMRupnFhVe8SYG42VsyYBAAMCAANtAAM2BA.webp',
+            dark: 'https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAAMsaKqg4alIgMsHFHPOPzuGUiC2BtsAAq7DMRupnFhVe8SYG42VsyYBAAMCAANtAAM2BA.webp'
+          },
+          color: '#130BD1',
+        },  
       ],
     },
     // {
@@ -168,6 +212,78 @@ export const navigationConfig = {
     //     }
     //   ]
     // },
+    { 
+      id: 'common-site',
+      name: '常用网站',
+      items: [
+          {
+          id: 'Github',
+          name: 'Github',
+          description: '常用代码托管网站',
+          url: 'https://github.com/',
+          icon: {
+            light: 'https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAAMraKqT3bmOZf_bXcG9bcf_2bg6GbAAAprDMRupnFhV3t-NdBcLNFUBAAMCAAN4AAM2BA.webp',
+            dark: 'https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAAMraKqT3bmOZf_bXcG9bcf_2bg6GbAAAprDMRupnFhV3t-NdBcLNFUBAAMCAAN4AAM2BA.webp'
+          },
+          color: '#85B7D1',
+        },
+          {
+          id: 'Gitee',
+          name: 'Gitee',
+          description: '常用代码托管网站',
+          url: 'https://gitee.com/',
+          icon: {
+            light: 'https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAAMtaKqhh-jiQNUVuP6zaQXiRVl3oLEAAq_DMRupnFhV5iO8oolqxr0BAAMCAAN4AAM2BA.webp',
+            dark: 'https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAAMtaKqhh-jiQNUVuP6zaQXiRVl3oLEAAq_DMRupnFhV5iO8oolqxr0BAAMCAAN4AAM2BA.webp'
+          },
+          color: '#85B7D1',
+        },
+        {
+          id: 'vercel',
+          name: 'Vercel',
+          description: 'vercel部署博客',
+          url: 'https://vercel.com/',
+          icon: {
+            light: 'https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAAMwaKqixMw7aUpOKASscmBOCNg8N_cAArXDMRupnFhVPWRnlaD-e-4BAAMCAAN5AAM2BA.webp',
+            dark: 'https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAAMwaKqixMw7aUpOKASscmBOCNg8N_cAArXDMRupnFhVPWRnlaD-e-4BAAMCAAN5AAM2BA.webp'
+          },
+          color: '#85B7D1',
+        },
+        {
+          id: 'cloudflare',
+          name: 'cloudflare',
+          description: 'cloudflare部署博客和workers',
+          url: 'https://dash.cloudflare.com/',
+          icon: {
+            light: 'https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAAMyaKqnSSZt88LiEVBB11OFCBTd0FkAAsTDMRupnFhVLziHo9bcQfQBAAMCAAN4AAM2BA.webp',
+            dark: 'https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAAMyaKqnSSZt88LiEVBB11OFCBTd0FkAAsTDMRupnFhVLziHo9bcQfQBAAMCAAN4AAM2BA.webp'
+          },
+          color: '#85B7D1',
+        },
+        {
+          id: 'netlify',
+          name: 'netlify',
+          description: 'netlify部署博客',
+          url: 'https://app.netlify.com/',
+          icon: {
+            light: 'https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAAMzaKqofGiOuA6T26iNGz7PU7_OtY4AAs_DMRupnFhV5omy7Dd-WpYBAAMCAAN4AAM2BA.webp',
+            dark: 'https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAAMzaKqofGiOuA6T26iNGz7PU7_OtY4AAs_DMRupnFhV5omy7Dd-WpYBAAMCAAN4AAM2BA.webp'
+          },
+          color: '#85B7D1',
+        }, 
+        {
+          id: 'bilibili',
+          name: '哔哩哔哩',
+          description: '哔哩哔哩视频平台',
+          url: 'https://www.bilibili.com/',
+          icon: {
+            light: 'https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAAM0aKqrep1TaCQyhEYqvVTuYdNJ0NQAAtrDMRupnFhVKLc-7YQYmD4BAAMCAAN4AAM2BA.webp',
+            dark: 'https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAAM0aKqrep1TaCQyhEYqvVTuYdNJ0NQAAtrDMRupnFhVKLc-7YQYmD4BAAMCAAN4AAM2BA.webp'
+          },
+          color: '#85B7D1',
+        }, 
+      ]
+    },
     {
       id: 'self-services',
       name: '自建服务',
@@ -418,6 +534,17 @@ export const navigationConfig = {
           url: 'https://newsnow.kemeow.top',
           icon: '',
           color: '#383ac6ff'
+        },
+        {
+          id: 'BroadcastChannel',
+          name: 'BroadcastChannel',
+          description: '将您的 Telegram 频道变成微博。',
+          url: 'https://shuoshuo.kemiao.online',
+          icon: {
+            light: 'https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAAMqaKqS4OV4A8lxcNbA3n1CYfv5_OwAApbDMRupnFhVMPdrhjH_s4QBAAMCAAN4AAM2BA.webp',
+            dark: 'https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAAMqaKqS4OV4A8lxcNbA3n1CYfv5_OwAApbDMRupnFhVMPdrhjH_s4QBAAMCAAN4AAM2BA.webp',
+          },
+          color: '#20c240ff'
         },
       ]
     },
