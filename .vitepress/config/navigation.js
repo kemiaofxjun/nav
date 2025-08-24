@@ -164,8 +164,8 @@ export const navigationConfig = {
           color: '#130BD1',
         },
         {
-          id: 'rin-blog',
-          name: 'rin-blog',
+          id: 'Gmeek-blog',
+          name: 'Gmeek-blog',
           description: 'Gmeek 博客',
           url: 'https://blog.kemiao.site',
           icon: {
