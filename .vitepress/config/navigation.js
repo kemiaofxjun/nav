@@ -123,7 +123,7 @@ export const navigationConfig = {
           id: 'astro-Mizuki',
           name: 'astro-theme-Mizuki',
           description: 'astro-theme-Mizuki的自用版本',
-          url: 'https://myblog.kemiaosw.top',
+          url: 'https://blog.kemiaosw.top',
           icon: {
             light: 'https://img.314926.xyz/images/2025/08/23/Mizuki.webp',
             dark: 'https://img.314926.xyz/images/2025/08/23/Mizuki.webp'
