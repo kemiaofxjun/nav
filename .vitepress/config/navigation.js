@@ -519,7 +519,7 @@ export const navigationConfig = {
                 {
           id: 'memos',
           name: 'memos',
-          description: '又一仿朋友圈主题',
+          description: 'memo备忘',
           url: 'https://moment.081531.xyz',
           icon: {
             light: 'https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAAMhaKnPdyeR6najXgPkOqV5IMarHS4AAs3HMRupnFBVpzU1h0J_5JQBAAMCAANtAAM2BA.webp',
