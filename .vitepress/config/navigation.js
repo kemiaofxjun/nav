@@ -520,7 +520,7 @@ export const navigationConfig = {
           id: 'memos',
           name: 'memos',
           description: 'memo备忘',
-          url: 'https://moment.081531.xyz',
+          url: 'https://memos.050815.xyz',
           icon: {
             light: 'https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAAMhaKnPdyeR6najXgPkOqV5IMarHS4AAs3HMRupnFBVpzU1h0J_5JQBAAMCAANtAAM2BA.webp',
             dark: 'https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAAMhaKnPdyeR6najXgPkOqV5IMarHS4AAs3HMRupnFBVpzU1h0J_5JQBAAMCAANtAAM2BA.webp',
